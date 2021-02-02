@@ -6,4 +6,4 @@ def ucitaj_akcije():
 
 def sacuvaj_akcije(akcije):
     with open("akcijske_ponude.json", "w", encoding="UTF8") as datoteka:
-        json.dump(akcije, datoteka, indent=10)
+        json.dump(akcije, datoteka, indent=4)
