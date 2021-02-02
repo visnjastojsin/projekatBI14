@@ -1,0 +1,37 @@
+[
+    {
+        "korisnicko_ime": "visnjas",
+        "lozinka": "visnjas",
+        "ime": "Visnja",
+        "prezime": "Stojsin",
+        "tip_korisnika": "Administrator"
+    },
+    {
+        "korisnicko_ime": "anastasija",
+        "lozinka": "anastasija",
+        "ime": "Anastasija",
+        "prezime": "Savic",
+        "tip_korisnika": "Prodavac"
+    },
+    {
+        "korisnicko_ime": "stefan",
+        "lozinka": "stefan",
+        "ime": "Stefan",
+        "prezime": "Santovac",
+        "tip_korisnika": "Menadzer"
+    },
+    {
+        "korisnicko_ime": "mrmijan",
+        "lozinka": "123mijan",
+        "ime": "Bojan",
+        "prezime": "Mijanovic",
+        "tip_korisnika": "Menadzer"
+    },
+    {
+        "korisnicko_ime": "bojanK",
+        "lozinka": "kirca",
+        "ime": "Bojan",
+        "prezime": "Kircanski",
+        "tip_korisnika": "Prodavac"
+    }
+]

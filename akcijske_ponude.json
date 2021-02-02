@@ -1,0 +1,122 @@
+[
+          {
+                    "sifra": "1",
+                    "artikli": [
+                              {
+                                        "sifra": "350862",
+                                        "naslov": "TAOCI KORONE",
+                                        "autor": "Dragan Vujicic",
+                                        "isbn": "9788663092396",
+                                        "izdavac": "FILIP VI\u0160NJI\u0106",
+                                        "godina": 2020,
+                                        "stara_cena": 445.0,
+                                        "cena": 250.0,
+                                        "kategorija": "politika",
+                                        "brisanje": false
+                              },
+                              {
+                                        "sifra": "350855",
+                                        "naslov": "BALKAN NA POSTHLADNORATOVSKOM RASKR\u0160\u0106U",
+                                        "autor": "Dragan \u0110ukanovi\u0107",
+                                        "isbn": "9788670672772",
+                                        "izdavac": "SLU\u017dBENI GLASNIK",
+                                        "godina": 2020,
+                                        "stara_cena": 990.0,
+                                        "cena": 500.0,
+                                        "kategorija": "politika",
+                                        "brisanje": false
+                              }
+                    ],
+                    "datum_vazenja": "2021-04-21"
+          },
+          {
+                    "sifra": "2",
+                    "artikli": [
+                              {
+                                        "sifra": "350259",
+                                        "naslov": "NOVI ZVU\u010cNI PROSTORI",
+                                        "autor": "Zorica Premate",
+                                        "isbn": "9788661951749",
+                                        "izdavac": "RTS",
+                                        "godina": 2020,
+                                        "stara_cena": 1386.0,
+                                        "cena": 1000.0,
+                                        "kategorija": "muzika",
+                                        "brisanje": false
+                              },
+                              {
+                                        "sifra": "350261",
+                                        "naslov": "SRBI I EVROPSKI KOMPOZITORI",
+                                        "autor": "Dejan Tomi\u0107",
+                                        "isbn": "9788661951732",
+                                        "izdavac": "RTS I MUZEJ VOJVODINE",
+                                        "godina": 2019,
+                                        "stara_cena": 1678.0,
+                                        "cena": 1300.0,
+                                        "kategorija": "muzika",
+                                        "brisanje": false
+                              }
+                    ],
+                    "datum_vazenja": "2021-03-06"
+          },
+          {
+                    "sifra": "3",
+                    "artikli": [
+                              {
+                                        "sifra": "350444",
+                                        "naslov": "NA DRINI CUPRIJA",
+                                        "autor": "Ivo Andric",
+                                        "isbn": "9788652135740",
+                                        "izdavac": "Vulkan",
+                                        "godina": 2000,
+                                        "stara_cena": 2500.0,
+                                        "cena": 2000.0,
+                                        "kategorija": "istorijska",
+                                        "brisanje": false
+                              },
+                              {
+                                        "sifra": "350379",
+                                        "naslov": "DOBRI KRADLJIVCI",
+                                        "autor": "Ketrin Randel",
+                                        "isbn": "9788610035223",
+                                        "izdavac": "VULKAN IZDAVA\u0160TVO",
+                                        "godina": 2020,
+                                        "stara_cena": 679.0,
+                                        "cena": 500.0,
+                                        "kategorija": "tinejdz i ya roman",
+                                        "brisanje": false
+                              },
+                              {
+                                        "sifra": "350814",
+                                        "naslov": "GOCA JE NE\u0160TO LEPO",
+                                        "autor": "Dobrica \u0106osi\u0107",
+                                        "isbn": "9788671826877",
+                                        "izdavac": "BOOKLAND",
+                                        "godina": 2020,
+                                        "stara_cena": 811.67,
+                                        "cena": 500.0,
+                                        "kategorija": "tinejdz i ya roman",
+                                        "brisanje": false
+                              }
+                    ],
+                    "datum_vazenja": "2021-05-01"
+          },
+          {
+                    "sifra": "4",
+                    "artikli": [
+                              {
+                                        "sifra": "350444",
+                                        "naslov": "NA DRINI CUPRIJA",
+                                        "autor": "Ivo Andric",
+                                        "isbn": "9788652135740",
+                                        "izdavac": "Vulkan",
+                                        "godina": 2000,
+                                        "stara_cena": 2500.0,
+                                        "cena": 120.0,
+                                        "kategorija": "istorijska",
+                                        "brisanje": false
+                              }
+                    ],
+                    "datum_vazenja": "2021-09-05"
+          }
+]
